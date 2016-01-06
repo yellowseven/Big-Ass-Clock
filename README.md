@@ -1,2 +1,2 @@
-# Test
-This is a test to test the test from test test
+# Big Ass Clock
+For people that want a big ass clock screen.
